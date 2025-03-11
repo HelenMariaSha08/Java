@@ -1,5 +1,5 @@
 import java.util.*;
-class cpyArray{
+class CpyArray{
    
     public static void main (String[] args) {
         Scanner sc=new Scanner(System.in);
