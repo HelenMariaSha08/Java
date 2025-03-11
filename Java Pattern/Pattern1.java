@@ -1,3 +1,16 @@
+/*Java program to print the following pattern
+5432*
+543*1
+54*21
+5*321
+*4321
+
+*/
+
+
+
+
+
 import java.util.*;
 import java.util.Arrays;  
 public class Pattern1 {  

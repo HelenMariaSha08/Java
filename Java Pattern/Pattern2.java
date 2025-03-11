@@ -1,3 +1,15 @@
+/*Java program to print the following pattern
+000*000
+0*00*00*0
+00*0*0*00
+000***000
+pattern 2
+*/
+
+
+
+
+
 import java.util.*;
 public class Pattern2
 {
