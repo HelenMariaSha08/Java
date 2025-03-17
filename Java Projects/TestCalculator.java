@@ -79,6 +79,7 @@ class TestCalculator{
                             System.out.println("Division by zero not possible");
                         }
                         break;
+
                 case 5 :System.out.println("You are exiting the Calculator Services.\n THANK YOU");
                         break;
                 default:System.out.println("Invalid option" );
