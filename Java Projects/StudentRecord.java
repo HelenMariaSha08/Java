@@ -44,8 +44,9 @@ class StudentRecord{
                     System.out.println("RECORD IS ALREADY FILLED\n\n");
                 }
                 else{
+                    sc.nextLine();
                     System.out.println("Enter name");
-                    String inputName=sc.next();
+                    String inputName=sc.nextLine();
                     System.out.println("Enter roll number");
                     int inputRoll=sc.nextInt();
                     boolean exists=false;
